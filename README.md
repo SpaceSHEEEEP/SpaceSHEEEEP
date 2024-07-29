@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SpaceSHEEEEP
-- 👀 I’m interested in learning CS50 and hopefully one day ruby because I got dragonruby for free
-- 🌱 I’m currently learning CS50
+- 👀 I’m interested in learning anything really. I plan do do the subcourses of CS50
+- 🌱 I’m currently in my 3rd year of uni studying maths
 - 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me plese dont
+- 📫 How to reach me? email!
 
 <!---
 SpaceSHEEEEP/SpaceSHEEEEP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
