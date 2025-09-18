@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpaceSHEEEEP
 - 👀 I’m interested in learning anything really. I plan do some subcourses of CS50
-- 🌱 I’m currently in my 3rd year of uni studying maths
+- 🌱 I graduated from uni. Now I'm jobless :(
 - 📫 How to reach me? Email!
 
 <!---
